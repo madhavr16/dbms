@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection{
+  color: rgb(213, 13, 13);
+}
+.bg{
+  background-image: url(./images/Bg2.jpg);
+  background-size: cover;
+}
+.bg-about{
+  background-image: url(./images/NewCar.jpg);
+  background-size: cover;
+}
